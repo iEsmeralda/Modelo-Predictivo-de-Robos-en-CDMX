@@ -1,0 +1,2 @@
+El objetivo de este proyecto es predecir el número de robos a transeúntes en vía pública con violencia en las alcaldías Cuauhtémoc, Miguel Hidalgo, Álvaro Obregón, Iztapalapa, Gustavo A. Madero y Benito Juárez a partir de datos históricos donde se utilizan las características de coordenadas (latitud
+y longitud), día de la semana y mes en el que ocurrió el delito y la alcaldía en la que ocurrió, utilizando datos de la fiscalía general de Justicia de la CDMX (2016-2023).
